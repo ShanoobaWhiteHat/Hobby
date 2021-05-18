@@ -1,0 +1,27 @@
+.menu{
+    list-style:none;
+    font-family:cursive;
+  position:absolute;
+    margin-top:20px;
+    margin-right: 30px;
+    float: right;
+    cursor:pointer;
+    color:black;
+    
+}
+.item{
+    float:left;
+    margin:10px;
+    font-size:16px;
+}
+.item:hover{
+    background-color: beige;
+    font-size:20px
+}
+h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 50px;
+}
+body{
+    text-align: center;
+}
