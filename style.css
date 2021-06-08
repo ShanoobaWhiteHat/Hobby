@@ -54,3 +54,13 @@ body{
   float: center;
 /*    text-align: center;*/
 }
+#food img{
+    height:500px;
+    width: 500px;
+    border: 5px solid navy;
+    margin:20px;
+    transition: transform 0.5s;
+}
+#food img:hover{
+    transform:scale(1.1);
+}
